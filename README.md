@@ -1,16 +1,34 @@
-## Hi there 👋
+<!-- GitHub Profile README: Kevin Boateng -->
 
-<!--
-**kevctrl/kevctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Kevin Boateng</h1>
+<h3 align="center">Backend Developer | Problem Solver | Future Tech Founder</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-Python%20%7C%20Node.js-blue" />
+  <img src="https://img.shields.io/badge/ALX%20SE%20Learner-000000?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fintech%20&%20Smart%20Apps-Enthusiast-green" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+I’m a passionate **Software Engineering learner at ALX**, transitioning from oil and gas into a world powered by code, renewable innovation, and fintech solutions.
+
+💡 What fuels me?  
+> *"The joy of solving real-world problems, especially through transport innovations and smart financial tools that create access and impact."*
+
+📌 My goal is to:
+- Become a **professional backend developer**
+- Contribute to **fintech, mobility, and small business tools**
+- Build my own app, **BALANCE**, to support entrepreneurs globally
+
+---
+
+### 🔧 Tech Stack & Tools
+
+```yaml
+💻 Languages: Python, JavaScript (Node.js), SQL
+🔧 Tools: Git, Postman, Docker (learning), VS Code, Linux
+🌐 Web: REST APIs, Flask, Express.js, MongoDB (learning), PostgreSQL
+🧠 Learning: System Design, Clean Architecture, CI/CD, Cloud (AWS/GCP)
+
